@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/soniaj-ui/bday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "sonia",
+
+  "bugs": {
+    "url": " https://github.com/soniaj-ui/bday/issues"
+  },
+  "homepage": "https://github.com/soniaj-ui/bday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
